@@ -10,7 +10,6 @@ if reverse_string_list == input_string:
 else:
     print("The word isn't a Plaendrome.")
 
-
 if input_string == input_string.upper():
     print(input_string.lower())
 elif input_string == input_string.lower():
